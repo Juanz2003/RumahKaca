@@ -1,0 +1,31 @@
+.HomeContainer {
+    display: flex;
+    background: transparent;
+}
+
+
+.TittleContainer {
+    display: flex;
+    width: 130vh;
+    margin-left: 50px;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    height: 100vh;
+}
+
+.TittleContainer img {
+    height: 80vh;
+    background: transparent;
+}
+
+.ButtonContainer {
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ButtonContainer img {
+    height: 40vh;
+}

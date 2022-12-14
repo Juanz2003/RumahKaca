@@ -1,0 +1,84 @@
+.MenuContainer {
+    width: 100%;
+    display: flex;
+}
+
+.ContainerList {
+    background: linear-gradient(180deg, rgba(78,168,222,1) 0%, rgba(52,137,187,1) 100%);
+    width: 180vh;
+    border: 5px solid black;
+    margin-top:10px;
+    padding-bottom: 30px;
+    height: 80vh;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+    box-shadow: 10px 10px black;
+}
+
+.ContainerList button {
+    background: #6430B5;
+    color: white;
+    border: 5px solid black;
+    font-size: 24px;
+    margin-top: 10px;
+    padding: 5px 30px 5px 30px;
+    width: 350px;
+    box-shadow: black 5px 5px;
+}
+
+.ContainerTools {
+    width: 80vh;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.UI {
+    display: flex;
+    margin-bottom: 35%;
+    justify-content: center;
+}
+
+.Arrow {
+    display: flex;
+    justify-content: center;
+    margin: 30%;
+}
+
+.ContainerTools img {
+    height: 20vh;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.ContainerMateri {
+    background: linear-gradient(180deg, rgba(78,168,222,1) 0%, rgba(52,137,187,1) 100%);
+    width: 180vh;
+    border: 5px solid black;
+    margin-top:10px;
+    padding-bottom: 30px;
+    height: 80vh;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+.ContainerMateri button {
+    background: #6430B5;
+    color: white;
+    border: 5px solid black;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 2px 30px 2px 30px;
+    width: 350px;
+
+}

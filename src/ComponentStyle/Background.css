@@ -1,0 +1,11 @@
+.Background {
+    height: 100vh;
+    background: linear-gradient(180deg, rgba(128,255,219,1) 0%, rgba(100,223,223,1) 100%);
+    position:fixed;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -999;
+}
