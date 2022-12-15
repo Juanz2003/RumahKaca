@@ -62,6 +62,7 @@
     width: 180vh;
     border: 5px solid black;
     margin-top:10px;
+    box-shadow: black 10px 10px;
     padding-bottom: 30px;
     height: 80vh;
     color:white;
@@ -72,13 +73,22 @@
     margin-left: 30px;
 }
 
+.ContainerMateri h1 {
+    margin-top: 25px;
+}
+
 .ContainerMateri button {
     background: #6430B5;
     color: white;
     border: 5px solid black;
     font-size: 18px;
+    box-shadow: black 4px 4px;
     margin-top: 10px;
     padding: 2px 30px 2px 30px;
     width: 350px;
 
+}
+
+.ContainerMateri p {
+    font-size: 18px;
 }

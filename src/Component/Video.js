@@ -1,31 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
 import "../ComponentStyle/Menu.css";
 import { Link } from "react-router-dom";
-import Musik from "../Asset/musik.png";
-import Rumah from "../Asset/Home.png";
 import arrowR from "../Asset/arrowRight.png";
 import arrowL from "../Asset/arrowLeft.png";
 import Ui from "./UI";
 
-const Menu =({mute})=> {
+const Video =({mute})=> {
+
+ 
+
     return(
         <div className="MenuContainer">
-            <div className="ContainerList" >
-                <h1>Menu</h1>
-                <Link to="/Materi">
-                    <button>Materi</button>
-                </Link>
-                <Link to="/Video">
-                    <button>Video</button>
-                </Link>
-                <Link to="/Quiz">
-                    <button>Quiz</button>
-                </Link>
+            <div className="ContainerMateri" >
+                <h1>Video</h1>
+                <iframe allowFullScreen width="400" height="320" src="https://www.youtube.com/embed/FI3fKuB4WLc" tittle='Video'>
+
+                </iframe>
+                 
             </div>
             <div className="ContainerTools">
                 <Ui mutes={mute} />
                 <div className="Arrow" >
                     <Link to="/Materi">
+                    <img src={arrowL}  />
+                    </Link>
+                    <Link to="/Animasi">
                     <img src={arrowR}  />
                     </Link>
                 </div>
@@ -35,4 +34,4 @@ const Menu =({mute})=> {
     )
 }
 
-export default Menu
+export default Video;

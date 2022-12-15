@@ -24,8 +24,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .ButtonContainer img {
     height: 40vh;
+}
+
+.secondButton {
+    margin-top: 20px;
+}
+
+.secondButton img {
+    height: 20vh ;
+    margin-right: 10px;
+    margin-left: 10px;
 }

@@ -1,9 +1,12 @@
 import React from "react";
 import "../ComponentStyle/Background.css";
+import bumi from "../Asset/bumi.png";
 
 const Background =()=> {
     return(
-        <div className="Background"></div>
+        <div className="Background">
+            <img src={bumi} />
+        </div>
     )
 }
 
