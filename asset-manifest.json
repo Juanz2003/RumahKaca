@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/RumahKaca/static/css/main.7393f585.css",
-    "main.js": "/RumahKaca/static/js/main.4dd900f1.js",
+    "main.css": "/RumahKaca/static/css/main.fb6615ec.css",
+    "main.js": "/RumahKaca/static/js/main.e12a7d25.js",
     "static/js/787.14f3fbcd.chunk.js": "/RumahKaca/static/js/787.14f3fbcd.chunk.js",
     "static/media/song.mp3": "/RumahKaca/static/media/song.3a00cc71ff23a101c2e0.mp3",
+    "static/media/bumi.png": "/RumahKaca/static/media/bumi.2a822f7a79cbee71e915.png",
+    "static/media/sun.png": "/RumahKaca/static/media/sun.c40259aa7794b85fa20e.png",
     "static/media/GambarPeng.PNG": "/RumahKaca/static/media/GambarPeng.a75c3365a1d3c6c881f3.PNG",
     "static/media/GambarDampak.PNG": "/RumahKaca/static/media/GambarDampak.a4a1024d241920707f33.PNG",
     "static/media/Profil.jpg": "/RumahKaca/static/media/Profil.7e450eeb138956c63d5b.jpg",
     "static/media/GambarPenyebab.PNG": "/RumahKaca/static/media/GambarPenyebab.d7d8bf7b62f04c5bb760.PNG",
-    "static/media/bumi.png": "/RumahKaca/static/media/bumi.e2ebb86895cabe9ed83e.png",
     "static/media/GambarUpaya.PNG": "/RumahKaca/static/media/GambarUpaya.01e83e3eb4f001e32708.PNG",
+    "static/media/icon3.png": "/RumahKaca/static/media/icon3.fcf35416df8fdc2f77a8.png",
+    "static/media/icon2.png": "/RumahKaca/static/media/icon2.7f8146abedd668fae5a3.png",
+    "static/media/iconquiz.png": "/RumahKaca/static/media/iconquiz.fb6bda398388be7c8ea2.png",
+    "static/media/iconvideo.png": "/RumahKaca/static/media/iconvideo.a8bc59c163fac5d8a8c6.png",
+    "static/media/iconmateri.png": "/RumahKaca/static/media/iconmateri.1ffa161458f29a72deb5.png",
+    "static/media/icon1.png": "/RumahKaca/static/media/icon1.b5076d9d76d2fb8a425b.png",
     "static/media/Judul.png": "/RumahKaca/static/media/Judul.144bcf96aa11499490b5.png",
+    "static/media/icon4.png": "/RumahKaca/static/media/icon4.02a2100d80895daeb335.png",
     "index.html": "/RumahKaca/index.html",
-    "main.7393f585.css.map": "/RumahKaca/static/css/main.7393f585.css.map",
-    "main.4dd900f1.js.map": "/RumahKaca/static/js/main.4dd900f1.js.map",
+    "main.fb6615ec.css.map": "/RumahKaca/static/css/main.fb6615ec.css.map",
+    "main.e12a7d25.js.map": "/RumahKaca/static/js/main.e12a7d25.js.map",
     "787.14f3fbcd.chunk.js.map": "/RumahKaca/static/js/787.14f3fbcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7393f585.css",
-    "static/js/main.4dd900f1.js"
+    "static/css/main.fb6615ec.css",
+    "static/js/main.e12a7d25.js"
   ]
 }
