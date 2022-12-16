@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RumahKaca/static/css/main.fb6615ec.css",
-    "main.js": "/RumahKaca/static/js/main.e12a7d25.js",
+    "main.js": "/RumahKaca/static/js/main.f9c5b0b6.js",
     "static/js/787.14f3fbcd.chunk.js": "/RumahKaca/static/js/787.14f3fbcd.chunk.js",
     "static/media/song.mp3": "/RumahKaca/static/media/song.3a00cc71ff23a101c2e0.mp3",
     "static/media/bumi.png": "/RumahKaca/static/media/bumi.2a822f7a79cbee71e915.png",
@@ -21,11 +21,11 @@
     "static/media/icon4.png": "/RumahKaca/static/media/icon4.02a2100d80895daeb335.png",
     "index.html": "/RumahKaca/index.html",
     "main.fb6615ec.css.map": "/RumahKaca/static/css/main.fb6615ec.css.map",
-    "main.e12a7d25.js.map": "/RumahKaca/static/js/main.e12a7d25.js.map",
+    "main.f9c5b0b6.js.map": "/RumahKaca/static/js/main.f9c5b0b6.js.map",
     "787.14f3fbcd.chunk.js.map": "/RumahKaca/static/js/787.14f3fbcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb6615ec.css",
-    "static/js/main.e12a7d25.js"
+    "static/js/main.f9c5b0b6.js"
   ]
 }
